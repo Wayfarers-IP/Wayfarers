@@ -1,2 +1,2 @@
-# Wayfarers
-OTD even semester project 2019
+# IP-19
+INDEPENDENT PROJECT - OTD102
